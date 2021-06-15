@@ -8,6 +8,10 @@ import Footer from '../components/Footer'
 export default function Home() {
   return (
     <div>
+      <Head>
+      <link rel="preconnect" href="https://fonts.gstatic.com" />
+   
+      </Head>
     <Header />
     <section id="hero" className={styles.hero} className={styles.container}>
         <div className={styles["hero-info"]}>

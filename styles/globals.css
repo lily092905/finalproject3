@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -19,9 +20,13 @@ a {
 }
 p {
   margin: 10px 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 3rem;
+
 }
 h1 {
   margin-bottom: 20px;
+  font-family: 'Indie Flower', cursive;
 }
 .btn {
   display: inline-block;
