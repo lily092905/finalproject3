@@ -15,7 +15,7 @@ export default function Home() {
     <Header />
     <section id="hero" className={styles.hero} className={styles.container}>
         <div className={styles["hero-info"]}>
-            <h1 className={styles.h1} className={styles["hero-info-heading"]}>My Web<br />Wei Leng Yeh</h1>
+            <p className={styles.h1} className={styles["hero-info-heading"]}>My Web<br />Wei Leng Yeh</p>
             <p class={styles["hero-info-subheading"]}>I am an freshman</p>
             
         </div>
