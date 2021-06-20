@@ -7,7 +7,6 @@ export default function Header() {
             <ul>
                 <li className={styles.li}><a className={styles.a} href="/project/meals">projrct</a></li>
                 <li className={styles.li}><a className={styles.a} href="/cards/cards">cards</a></li>
-                <li className={styles.li}><a className={styles.a} href="#">Conduct</a></li>
             </ul>
         </div>
   );
